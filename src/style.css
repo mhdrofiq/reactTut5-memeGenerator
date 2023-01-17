@@ -32,6 +32,7 @@ main{
 
 .form{
     display: grid;
+    /* this means make 2 40px rows, evenly divide the 2 columns by 1 fraction each */
     grid-template: 40px 40px / 1fr 1fr;
     gap: 17px
 }
@@ -52,5 +53,6 @@ main{
     background: linear-gradient(90.41deg, #711F8D 1.14%, #A818DA 100%);
     color: white;
     border: none;
+    /* when hovered over, the cursor turns into a pointer */
     cursor: pointer;
 }

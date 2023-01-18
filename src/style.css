@@ -56,3 +56,7 @@ main{
     /* when hovered over, the cursor turns into a pointer */
     cursor: pointer;
 }
+
+.meme-image{
+    max-width: 100%;
+}

@@ -6,4 +6,6 @@ This is a dynamic webpage made using ReactJs. The purpose of this was to learn a
 
 A preview of the page is shown below.
 
-<!-- ![Preview image](https://github.com/mhdrofiq/react-tutorial-project-5/blob/master/preview_project5.png) -->
+![Preview image](https://github.com/mhdrofiq/react-tutorial-project-5/blob/master/meme_gen_1.png)
+
+![Preview image](https://github.com/mhdrofiq/react-tutorial-project-5/blob/master/meme_gen_2.png)
